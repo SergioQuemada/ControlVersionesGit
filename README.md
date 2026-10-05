@@ -10,6 +10,6 @@
 
 * ## Conceptos básicos Git/GitHub
 
-**Referencias**
+  **Referencias**
 
-**Autores**
+  **Autores**
