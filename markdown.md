@@ -19,8 +19,6 @@ Markdown es un **lenguaje de marcado ligero** diseñado para dar formato a un te
 | **Typora** | Multiplataforma | Interfaz limpia, vista unificada sin panel separado. | De pago (prueba gratuita) |
 | **Dillinger** | Online | Sencillo, sincronización con Dropbox, Google Drive y GitHub. | Gratuito |
 | **StackEdit.io** | Online | Colaborativo, soporte MathJax y diagramas. | Gratuito |
-
-> **Nota:** En el curso nos centraremos en el uso de **Visual Studio Code**.
 ---
 
 ![Markdown](./img/Markdown.png)
