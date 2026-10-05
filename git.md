@@ -11,4 +11,6 @@
 * **Rápido y eficiente:** Diseñado para el control de versiones de archivos digitales, sean o no código fuente.
 * **Modelo distribuido:** Funciona sin necesidad imperativa de un repositorio central.
 * **Origen:** Creado por **Linus Torvalds** para responder a las necesidades del desarrollo del kernel de Linux, convirtiéndose en una herramienta fundamental para la comunidad software.
+---
+
 ![git](./img/git-logo.svg)
