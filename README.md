@@ -1,5 +1,4 @@
 # Indice
----
 
 * ## Introducción
 
