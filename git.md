@@ -1,3 +1,4 @@
+[git](./img/git-logo.svg)
 # Sistemas de Control de Versiones y Git
 
 ## Tipos de Sistemas de Control de Versiones (VCS)
