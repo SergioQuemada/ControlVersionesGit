@@ -7,4 +7,4 @@ Un **sistema de control de versiones (VCS)** es una herramienta que registra los
 * **Historial de cambios:** Facilita comparar diferencias a lo largo del tiempo.
 * **Trazabilidad:** Permite identificar quién hizo una modificación, cuándo se introdujo un cambio o quién provocó un fallo.
 
-![Introducción](./img/Control-de-versiones.png)
+![Control de versiones](./img/Control-de-versiones.png)
