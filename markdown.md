@@ -21,4 +21,4 @@ Markdown es un **lenguaje de marcado ligero** diseñado para dar formato a un te
 | **StackEdit.io** | Online | Colaborativo, soporte MathJax y diagramas. | Gratuito |
 ---
 
-<img src="./img/Markdown.png" alt="Markdown" width="300">
+<img src="./img/Markdown.png" alt="Markdown" width="100%">
